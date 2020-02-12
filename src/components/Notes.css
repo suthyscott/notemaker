@@ -1,0 +1,14 @@
+.note-maker {
+    background-color: tan;
+    
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.note {
+    font-size: 30px;
+    color: aqua;
+}
